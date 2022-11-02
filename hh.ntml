@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>First Page</title>
+</head>
+<body>
+<dl>
+<dt> LOL </dt>
+<dd＞是腾讯代理的一款网络游戏，中文名为英雄联盟</dd>
+<dd＞可以分为 PC 端和移动端＜/dd>
+<dt> HTML </dt>
+<dd＞是一种用来制作网页的标记语言＜/dd>
+<dt> Java </dt>
+<dd＞是一种跨平台的编
+程语言＜/dd>
+</dl>
+</body>
+</html>
